@@ -1,0 +1,26 @@
+
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "Esther",
+            "surname": "Howard",
+            "title": "Founder",
+            "image": "https://i.imgur.com/D3nD7Bs.png"
+          },
+          {
+            "id": 2,
+            "name": "Cody",
+            "surname": "Fisher",
+            "title": "Developer",
+            "image": "https://i.imgur.com/TGhCwEr.png"
+          },
+          {
+            "id": 3,
+            "name": "Brooklyn",
+            "surname": "Simmons",
+            "title": "Designer",
+            "image": "https://i.imgur.com/6sTh5ej.png"
+          }
+    ]
+}
